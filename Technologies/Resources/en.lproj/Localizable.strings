@@ -1,0 +1,28 @@
+// MARK: - Main screen
+
+"Welcome" = "Welcome";
+"Dark mode" = "Dark Mode";
+"Here you can turn on dark mode and select light mode or select system." = "Here you can turn on dark mode and select light mode or select system.";
+"Language" = "Language";
+"Here you can see how language can dynamicly change without app killing." = "Here you can see how language can dynamicly change without app killing.";
+"Localization" = "Localization";
+"Here you can see how endings for all localization dynamicly change when you set different values." = "Here you can see how endings for all localization dynamicly change when you set different values.";
+"Debug" = "Debug";
+"Here you can debug your app!" = "Here you can debug your app!";
+
+// MARK: - Theme screen
+
+"Current theme" = "Current theme";
+"Light mode" = "Light mode";
+"Dark mode" = "Dark mode";
+"System" = "System";
+
+// MARK: - Language Sscreen
+
+"Current language" = "Current language";
+"English" = "English";
+"Russian" = "Russian";
+
+// MARK: - Localization screen
+
+"Localization" = "Localization";

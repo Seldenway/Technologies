@@ -1,0 +1,28 @@
+// MARK: - Main screen
+
+"Welcome" = "Добро пожаловать";
+"Dark mode" = "Темная тема";
+"Here you can turn on dark mode and select light mode or select system." = "Здесь ты можешь включить темную тему, выбрать светлую тему или выбрать системную.";
+"Language" = "Язык";
+"Here you can see how language can dynamicly change without app killing." = "Здесь ты можешь увидеть, как язык изменяется динамечески без убивания приложения";
+"Localization" = "Локализация";
+"Here you can see how endings for all localization dynamicly change when you set different values." = "Здесь ты можешь увидеть как окончания для всех локализаций динамически изменяются, когда ты устанавливаешь нововые значения";
+"Debug" = "Отладка";
+"Here you can debug your app!" = "Здесь ты сможешь продебажить свое приложение!";
+
+// MARK: - Theme screen
+
+"Current theme" = "Текущая тема";
+"Light mode" = "Светлая тема";
+"Dark mode" = "Темная тема";
+"System" = "Системная";
+
+// MARK: - Language Sscreen
+
+"Current language" = "Текущий язык";
+"English" = "Английский";
+"Russian" = "Русский";
+
+// MARK: - Localization screen
+
+"Localization" = "Локализация";

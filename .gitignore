@@ -1,0 +1,4 @@
+*.xcuserstate
+.DS_Store
+*.resolved
+/Technologies.xcodeproj/project.xcworkspace/contents.xcworkspacedata
